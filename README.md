@@ -13,7 +13,7 @@ Based on these results, we recommend the following 3 actions for Pyber as they a
   1. Pyber should undertake efforts to attract more drivers in the rural areas. While the fare per rider and fare per driver are highest here, it indicates that the number of people searching for rides is not being properly served. Pursuing more drivers will bring the per-ride and per-drive averages down, but it will drive growth for the total fares, meaning higher revenues for the company.
   2. The ratio of driver to riders in urban areas is far too high, with 1.48 drivers per ride taken. This inflated supply of drivers in suppressing average fares per driver, as indicated by the fact that Urban type cities are the only type with a lower per-driver fare average than per-rider fare average. Pyber should look to further advertising to attract more riders, or find ways to decrease the number of drivers available at any given time.
   3. Pyber should look to expand into more suburban cities, as these seem to offer the best balance of riders to drivers. This ensures low wait times for riders and low downtime for drives, leading to better overall satisfaction for all involved with the business. These suburban sized cities also boast the closest per-rider and per-driver fare averages, showing that resources are being allocated in a more efficient manner for the company.
-![image](https://user-images.githubusercontent.com/100643755/165022849-d1065135-a072-4df1-a727-a445ba4f4e80.png)
+
 
    
 
